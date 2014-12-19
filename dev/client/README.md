@@ -1,4 +1,4 @@
 elite-rcp
 =========
 
-Elite Remote Control Panel TBD.
+Elite Remote Control Panel web client.
